@@ -1,6 +1,6 @@
 # 書籍購入API
 
-Spring Boot + MySQL + Docker で構築した書籍購入APIです。
+Spring Boot + MySQL + Docker で構築した書籍購入APIです。   
 DBカラム設計から考えてみたいと思い作成しました。
 
 ## 技術スタック
